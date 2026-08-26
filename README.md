@@ -44,4 +44,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/priyankayadav90/coding-practice-/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyankayadav90/coding-practice-/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyankayadav90/coding-practice-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
