@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
 | [0724-find-pivot-index](https://github.com/priyankayadav90/coding-practice-/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/priyankayadav90/coding-practice-/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyankayadav90/coding-practice-/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
