@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyankayadav90/coding-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
 | [0724-find-pivot-index](https://github.com/priyankayadav90/coding-practice-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
