@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyankayadav90/coding-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
 |  |
@@ -63,9 +65,14 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
