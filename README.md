@@ -36,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/priyankayadav90/coding-practice-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/priyankayadav90/coding-practice-/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/priyankayadav90/coding-practice-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
