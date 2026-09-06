@@ -34,6 +34,7 @@
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankayadav90/coding-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/priyankayadav90/coding-practice-/tree/master/0485-max-consecutive-ones) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/priyankayadav90/coding-practice-/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankayadav90/coding-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
