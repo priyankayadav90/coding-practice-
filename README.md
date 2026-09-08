@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyankayadav90/coding-practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,13 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankayadav90/coding-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
