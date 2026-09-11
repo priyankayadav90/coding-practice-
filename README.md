@@ -13,6 +13,7 @@
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyankayadav90/coding-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/priyankayadav90/coding-practice-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/priyankayadav90/coding-practice-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/priyankayadav90/coding-practice-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
 | ------- |
