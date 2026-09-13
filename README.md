@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyankayadav90/coding-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/priyankayadav90/coding-practice-/tree/master/0496-next-greater-element-i) |
@@ -104,6 +106,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
