@@ -49,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/priyankayadav90/coding-practice-/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/priyankayadav90/coding-practice-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/priyankayadav90/coding-practice-/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/priyankayadav90/coding-practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/priyankayadav90/coding-practice-/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/priyankayadav90/coding-practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
