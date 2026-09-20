@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankayadav90/coding-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/priyankayadav90/coding-practice-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/priyankayadav90/coding-practice-/tree/master/0496-next-greater-element-i) |
@@ -53,12 +55,14 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/priyankayadav90/coding-practice-/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0414-third-maximum-number) |
 ## Prefix Sum
@@ -81,6 +85,7 @@
 | [0013-roman-to-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/priyankayadav90/coding-practice-/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
