@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
