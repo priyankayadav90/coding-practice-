@@ -123,6 +123,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/priyankayadav90/coding-practice-/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/priyankayadav90/coding-practice-/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -142,4 +143,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/priyankayadav90/coding-practice-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/priyankayadav90/coding-practice-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
