@@ -41,6 +41,7 @@
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankayadav90/coding-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +102,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/priyankayadav90/coding-practice-/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/priyankayadav90/coding-practice-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/priyankayadav90/coding-practice-/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/priyankayadav90/coding-practice-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
