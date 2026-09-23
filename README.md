@@ -123,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/priyankayadav90/coding-practice-/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/priyankayadav90/coding-practice-/tree/master/0258-add-digits) |
