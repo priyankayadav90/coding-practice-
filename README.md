@@ -53,6 +53,7 @@
 | [0724-find-pivot-index](https://github.com/priyankayadav90/coding-practice-/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/priyankayadav90/coding-practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyankayadav90/coding-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/priyankayadav90/coding-practice-/tree/master/0980-unique-paths-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0090-subsets-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/priyankayadav90/coding-practice-/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/priyankayadav90/coding-practice-/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/priyankayadav90/coding-practice-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -138,6 +140,7 @@
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/priyankayadav90/coding-practice-/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/priyankayadav90/coding-practice-/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/priyankayadav90/coding-practice-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bracket Sequences
 |  |
@@ -155,4 +158,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/priyankayadav90/coding-practice-/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/priyankayadav90/coding-practice-/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/priyankayadav90/coding-practice-/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
