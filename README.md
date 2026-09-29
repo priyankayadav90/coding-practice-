@@ -40,6 +40,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyankayadav90/coding-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/priyankayadav90/coding-practice-/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/priyankayadav90/coding-practice-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/priyankayadav90/coding-practice-/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/priyankayadav90/coding-practice-/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/priyankayadav90/coding-practice-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/priyankayadav90/coding-practice-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/priyankayadav90/coding-practice-/tree/master/0784-letter-case-permutation) |
