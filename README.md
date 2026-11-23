@@ -17,6 +17,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyankayadav90/coding-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/priyankayadav90/coding-practice-/tree/master/0784-letter-case-permutation) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -119,6 +120,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/priyankayadav90/coding-practice-/tree/master/0496-next-greater-element-i) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankayadav90/coding-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
 ## Math
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyankayadav90/coding-practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Divide and Conquer
 |  |
