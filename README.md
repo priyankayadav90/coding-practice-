@@ -110,6 +110,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/priyankayadav90/coding-practice-/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/priyankayadav90/coding-practice-/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/priyankayadav90/coding-practice-/tree/master/0389-find-the-difference) |
 | [0784-letter-case-permutation](https://github.com/priyankayadav90/coding-practice-/tree/master/0784-letter-case-permutation) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/priyankayadav90/coding-practice-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/priyankayadav90/coding-practice-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/priyankayadav90/coding-practice-/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/priyankayadav90/coding-practice-/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/priyankayadav90/coding-practice-/tree/master/0509-fibonacci-number) |
